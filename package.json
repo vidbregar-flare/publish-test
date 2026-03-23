@@ -1,0 +1,14 @@
+{
+  "name": "@vidbregar-flare/publish-test",
+  "version": "0.1.0",
+  "description": "Test package for publish-npm-provenance action",
+  "main": "index.js",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vidbregar-flare/publish-test"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
