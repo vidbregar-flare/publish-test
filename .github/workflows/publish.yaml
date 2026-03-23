@@ -34,4 +34,4 @@ jobs:
       - uses: flare-foundation/npm-release-action@add-action
         with:
           npm_access: public
-          dry_run: true
+          dry_run: false
