@@ -1,5 +1,5 @@
 {
-  "name": "@vidbregar-flare/publish-test",
+  "name": "@vid-flare/publish-test",
   "version": "0.1.0",
   "description": "Test package for publish-npm-provenance action",
   "main": "index.js",
