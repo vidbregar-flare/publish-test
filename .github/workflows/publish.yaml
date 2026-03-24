@@ -39,7 +39,7 @@ jobs:
         with:
           node-version: '24'
 
-      - run: pnpm install -g npm@latest
+#      - run: pnpm install -g npm@latest
 
       - uses: flare-foundation/npm-release-action@add-action
         with:
