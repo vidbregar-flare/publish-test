@@ -1,6 +1,6 @@
 {
   "name": "@vid-flare/publish-test",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "Test package for publish-npm-provenance action",
   "main": "index.js",
   "license": "ISC",
